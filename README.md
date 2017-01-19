@@ -4,7 +4,7 @@ Manage all your logs in file automatically with line numbers and file names
 
 ## Installation
 ```javascript
-	npm install 
+	npm install console_logger
 ```
 
 ## Features
