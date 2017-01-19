@@ -1,0 +1,20 @@
+{
+  "name": "console_logger_test",
+  "version": "1.0.0",
+  "description": "Testing for console_logger ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "test",
+    "console",
+    "logger"
+  ],
+  "author": "Ritesh Arora <ritesharora21@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "console_logger" : "^0.0.1"
+  }
+}

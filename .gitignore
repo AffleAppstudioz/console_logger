@@ -1,0 +1,34 @@
+# Compiled binary addons 
+build/
+dist/
+dest/
+
+# Dependency directory
+node_modules
+bower_components
+
+# temporary files created by Application
+src/assets/news/newsImage
+src/assets/news/newsArticle
+
+# temporary files created by OS
+*.DS_Store
+.DS_Store
+thumbs.db
+
+# temporary files created by Editors
+.idea/
+*.idea/
+.jshintrc
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# node-waf configuration
+.lock-wscript

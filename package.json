@@ -1,0 +1,28 @@
+{
+  "name": "console_logger",
+  "version": "0.0.1",
+  "description": "Manage logs in file by Log or console.log",
+  "main": "console_logger.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AffleAppstudioz/loggerjs.git"
+  },
+  "keywords": [
+    "logger",
+    "logs",
+    "console",
+    "log_managment"
+  ],
+  "author": "Ritesh Arora <ritesharora21@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AffleAppstudioz/loggerjs/issues"
+  },
+  "homepage": "https://github.com/AffleAppstudioz/loggerjs#readme"
+}
