@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/AffleAppstudioz/loggerjs.git"
+    "url": "git+ssh://git@github.com/AffleAppstudioz/console_logger.git"
   },
   "keywords": [
     "logger",
@@ -22,7 +22,7 @@
   "author": "Shashi Badhuk <shashi1517@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AffleAppstudioz/loggerjs/issues"
+    "url": "https://github.com/AffleAppstudioz/console_logger/issues"
   },
-  "homepage": "https://github.com/AffleAppstudioz/loggerjs#readme"
+  "homepage": "https://github.com/AffleAppstudioz/console_logger#readme"
 }
