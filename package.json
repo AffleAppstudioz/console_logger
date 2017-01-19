@@ -1,6 +1,6 @@
 {
   "name": "console_logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Manage logs in file by Log or console.log",
   "main": "console_logger.js",
   "directories": {
@@ -19,7 +19,7 @@
     "console",
     "log_managment"
   ],
-  "author": "Ritesh Arora <ritesharora21@gmail.com>",
+  "author": "Shashi Badhuk <shashi1517@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AffleAppstudioz/loggerjs/issues"
