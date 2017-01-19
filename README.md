@@ -46,6 +46,7 @@ msg  | Message in Log/console
 
 ## Example 
 ```javascript
+	require("console_logger")({console :true , log : true , showinterminal : true , log : "log"}) 
   Log("this is a example");
   or
   console.log("this is a example");
